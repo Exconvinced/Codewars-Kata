@@ -1,7 +1,10 @@
 # Codewars-Kata
 A set of my kata trainings
 
-## Completed Kata Challenges: 5
+## Current Warrior Rank
+`<6 KYU>`
+
+## Completed Kata Challenges: 6
 > * Binary-to-Integer Converter
 > * Valid Braces
 > * Tribonacci Sequence

@@ -7,3 +7,4 @@ A set of my kata trainings
 > * Tribonacci Sequence
 > * Product of Consecutive Fibonacci Numbers
 > * Bouncing Balls
+> * The Supermarket Queue
